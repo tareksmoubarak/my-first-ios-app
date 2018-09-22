@@ -14,6 +14,8 @@
 		2BE1E0152156CE2300883903 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2BE1E0132156CE2300883903 /* LaunchScreen.storyboard */; };
 		2BE1E0202156CE2400883903 /* My_First_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BE1E01F2156CE2400883903 /* My_First_AppTests.swift */; };
 		2BE1E02B2156CE2400883903 /* My_First_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BE1E02A2156CE2400883903 /* My_First_AppUITests.swift */; };
+		2BE1E0392156E0ED00883903 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2BE1E0382156E0ED00883903 /* README.md */; };
+		2BE1E03D2156E19F00883903 /* blog-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 2BE1E03C2156E19F00883903 /* blog-2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		2BE1E0262156CE2400883903 /* My First AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "My First AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2BE1E02A2156CE2400883903 /* My_First_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = My_First_AppUITests.swift; sourceTree = "<group>"; };
 		2BE1E02C2156CE2400883903 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2BE1E0382156E0ED00883903 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		2BE1E03C2156E19F00883903 /* blog-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "blog-2.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +81,7 @@
 		2BE1DFFE2156CE2200883903 = {
 			isa = PBXGroup;
 			children = (
+				2BE1E0382156E0ED00883903 /* README.md */,
 				2BE1E0092156CE2200883903 /* My First App */,
 				2BE1E01E2156CE2400883903 /* My First AppTests */,
 				2BE1E0292156CE2400883903 /* My First AppUITests */,
@@ -103,6 +108,7 @@
 				2BE1E0112156CE2300883903 /* Assets.xcassets */,
 				2BE1E0132156CE2300883903 /* LaunchScreen.storyboard */,
 				2BE1E0162156CE2300883903 /* Info.plist */,
+				2BE1E03C2156E19F00883903 /* blog-2.png */,
 			);
 			path = "My First App";
 			sourceTree = "<group>";
@@ -231,7 +237,9 @@
 			files = (
 				2BE1E0152156CE2300883903 /* LaunchScreen.storyboard in Resources */,
 				2BE1E0122156CE2300883903 /* Assets.xcassets in Resources */,
+				2BE1E0392156E0ED00883903 /* README.md in Resources */,
 				2BE1E0102156CE2200883903 /* Main.storyboard in Resources */,
+				2BE1E03D2156E19F00883903 /* blog-2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
